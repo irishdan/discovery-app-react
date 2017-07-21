@@ -1,10 +1,8 @@
 # About
 
-[Contentful](https://www.contentful.com) is a content management platform for web applications, mobile apps and connected devices. It allows you to create, edit & manage content in the cloud and publish it anywhere via a powerful API. Contentful offers tools for managing editorial teams and enabling cooperation between organizations.
-
-The Contentful Discover web app gives you a quick and easy way to preview your content on a web environment, and explore the contents of your Spaces.
-
-You can try out the app at https://discovery.contentful.com/ or you can check out the source code and suggest your own improvements.
+Experiments with APIs and react. 
+Nothing to see here. 
+Move along please
 
 # Running discovery-app locally
 
@@ -43,7 +41,7 @@ Yarn users alternatively can use `yarn start` to start the app.
 clone the app and `cd` to the directory
 
 ```shell
-git clone https://github.com/contentful/discovery-app-react
+git clone https://github.com/irishdan/discovery-app-react
 ```
 
 Build the docker image
