@@ -13,7 +13,7 @@ You can try out the app at https://discovery.contentful.com/ or you can check ou
 clone the app and `cd` to the directory
 
 ```shell
-git clone https://github.com/contentful/discovery-app-react
+git clone https://github.com/irishdan/discovery-app-react
 ```
 
 ## Install dependencies via npm
